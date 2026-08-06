@@ -1,2 +1,2 @@
 # infra-preprod-prod
-Landing Zone Modules in Preprod &amp; Prod environments
+Landing Zone in Preprod &amp; Prod environments
